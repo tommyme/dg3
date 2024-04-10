@@ -15,8 +15,8 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian", "Extras/Templates","Sources/Movies + TV/豆瓣影音导入", "Spaces/0-Work"],
+    baseUrl: "garden.oldwinter.top",
+    ignorePatterns: ["private", "templates", ".obsidian","Atlas","Calendar","Cards", "Extras","Sources", "Spaces"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
