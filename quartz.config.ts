@@ -8,12 +8,12 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🌱 oldwinterの数字花园",
+    pageTitle: "🌱 tommymeの数字花园",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
     locale: "zh-CN",
-    baseUrl: "garden.oldwinter.top",
+    baseUrl: "garden.splac0de.top",
     ignorePatterns: ["private", "templates", ".obsidian","Atlas","Calendar","Cards", "Extras","Sources", "Spaces"],
     defaultDateType: "modified",
     theme: {

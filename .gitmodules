@@ -1,3 +1,3 @@
 [submodule "content"]
 	path = content
-	url = https://github.com/oldwinter/knowledge-garden.git
+	url = https://github.com/withybw/knowledge.git
